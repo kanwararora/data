@@ -1,10 +1,13 @@
 {
   "Production Totals": [
-    { "id": "1", "Totals": 100}
+    { "id": 1, 
+      "Totals": 100
+    }
   ],
-
   "Production Totals 2": [
-    { "id": "1", "Totals": 99}
+    { "id": 1, 
+      "Totals": 99
+    }
   ]
 
 }

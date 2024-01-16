@@ -1,10 +1,10 @@
 {
-  "Production Totals": [
+  "Production_Totals_shift1": [
     { "id": 1, 
       "Totals": 100
     }
   ],
-  "Production Totals 2": [
+  "Production_Totals_shift2": [
     { "id": 1, 
       "Totals": 99
     }
